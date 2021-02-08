@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "StocksApp"
+  "defaultProject": "StocksApp",
+  "cli": {
+    "analytics": false
+  }
 }
